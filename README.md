@@ -1,3 +1,8 @@
+[![GitHub Release](https://img.shields.io/github/v/release/sredna/Freeware)](./../../releases/tag/Stable)
+[![License](https://img.shields.io/badge/license-Freeware-1488AA.svg)](#)
+[![Donate](https://img.shields.io/badge/%24-donate-333333.svg)](https://www.paypal.com/donate/?hosted_button_id=9EGML6A7GZERY)
+
+
 ## PhysHidCleanAssist
 
 A simple tool that can lock your keyboard or mouse while you clean it.
